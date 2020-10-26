@@ -2,7 +2,7 @@
 
 <h1 align="center">H3llo w0rld</h1>
 
-
+<h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyrun" alt="psyrun" /> 
 
 
@@ -28,3 +28,5 @@
 
 ### Github Info:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyrun&layout=compact&hide=html" alt="psyrun" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psyrun&show_icons=true" alt="psyrun" /><a href="https://twitter.com/parad0xch3f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abd_abishek" height="30" width="30" /></a></p>
+
+</h3>
