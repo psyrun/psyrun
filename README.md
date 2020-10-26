@@ -1,4 +1,4 @@
-<img src="https://project-nerd.com/wp-content/uploads/2014/03/Matrix-Code-Banner.jpg">
+<img src="https://github.com/psyrun/psyrun/portfolio.png">
 
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center"></h3>
