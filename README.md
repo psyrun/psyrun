@@ -15,11 +15,11 @@
 - 🔭 I’m currently working open source(https://cyberwar.live)
 
 
-### GitHub Recent Activity:
+
 <!-- GIT-RECENT-ACTIVITY:START -->
 <!-- GIT-RECENT-ACTIVITY:END -->
 
-### Blogs posts:
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
