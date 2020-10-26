@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyrun" alt="psyrun" /> 
 
 
-![Latest blog post workflow](https://github.com/psyrun/psyrun/workflows/Latest%20blog%20post%20workflow/badge.svg) [![Need Help !!!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/psyrun/psyrun)  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)  [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/psyrun/badges)
+[![Latest blog post workflow](https://github.com/psyrun/psyrun/workflows/Latest%20blog%20post%20workflow/badge.svg)] [![Need Help ?](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/psyrun/psyrun)  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)  [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/psyrun/badges)
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/psyrun/)[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/psyrun/)[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/psyrun/)
 
 </p>
 
-- 🔭 I’m currently working open source(https://cyberwar.live/)
+- 🔭 I’m currently working open source(https://cyberwar.live)
 
 
 ### GitHub Recent Activity:
