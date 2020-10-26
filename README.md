@@ -2,7 +2,7 @@
 
 <h1 align="center">H3llo w0rld</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psyrun" alt="psyrun" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=psyrun" alt="psyrun" /> 
 
 
 ![Latest blog post workflow](https://github.com/psyrun/psyrun/blob/main/workflows/badge.svg) [![Need Help ?](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/psyrun/psyrun)  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)  [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/psyrun/badges)
