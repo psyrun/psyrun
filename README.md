@@ -29,3 +29,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyrun&layout=compact&hide=html" alt="psyrun" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psyrun&show_icons=true" alt="psyrun" /></p>
 <a href="https://twitter.com/parad0xch3f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="psyrun" height="30" width="30" /></a>
 
+X0R it (y0u kn0w wh3r3)
+key: nice0ne
+Key: good0ne
