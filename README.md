@@ -11,8 +11,6 @@
 
 </p>
 
-- 🔭 I’m currently working open source(https://cyberwar.live)
-
 
 
 <!-- GIT-RECENT-ACTIVITY:START -->
